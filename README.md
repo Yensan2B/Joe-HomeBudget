@@ -10,23 +10,25 @@ Joe-HomeBudget is a user-friendly application designed to help you manage your h
 
 Start by creating a new database or load an existing one. Databases are a convenient way to organize and manage your budget items. You can create a new one to start fresh or load an existing database if you've already set up your budget.
 
-![Create or Load Database](image-link-here)
+![Create or Load Database](https://github.com/Yensan2B/Joe-HomeBudget/tree/master/img/demo/new-load.png)
 
 ### 2. Add Categories
 
 Organize your budget items by adding categories. Categories make it easier to group similar expenses together, providing a clearer overview of your spending. You can add as many categories as you need to effectively manage your budget.
 
-![Add Categories](image-link-here)
+![Add Categories](https://github.com/Yensan2B/Joe-HomeBudget/tree/master/img/demo/create-cathegory.png)
 
 ### 3. Add Expenses
 
 Adding expenses is a straightforward process in JoeHome Budget. Enter the expense amount, and the app supports both whole numbers and decimal amounts. Whether you're dealing with round figures like $12 or precise amounts like $12.01, this app has you covered.
 
-![Add Expenses](image-link-here)
+![Add Expenses](https://github.com/Yensan2B/Joe-HomeBudget/tree/master/img/demo/add.png)
 
 ### 4. Search Functionality
 
 JoeHome Budget includes a powerful search bar to help you quickly find specific budget items. Whether you're looking for a particular expense or category, the search feature ensures that you can locate your budget items with ease.
+
+![Search](https://github.com/Yensan2B/Joe-HomeBudget/tree/master/img/demo/search.png)
 
 ### 5. Update and Delete
 
@@ -36,7 +38,7 @@ JoeHome Budget provides a simple way to update or delete budget items:
 - Select the "Update" option to make changes.
 - Select the "Delete" option to remove the budget item.
 
-![Update and Delete](image-link-here)
+![Update and Delete](https://github.com/Yensan2B/Joe-HomeBudget/tree/master/img/demo/update-delete.png)
 
 ## Getting Started
 
