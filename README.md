@@ -4,8 +4,6 @@
 
 Joe-HomeBudget is a user-friendly application designed to help you manage your home-budget with ease. This app allows you to add, update, and delete budget items, making it a convenient tool for tracking your expenses and staying on top of your finances.
 
-![JoeHome Budget](image-link-here)
-
 ## Features
 
 ### 1. Create or Load a Database
@@ -30,7 +28,15 @@ Adding expenses is a straightforward process in JoeHome Budget. Enter the expens
 
 JoeHome Budget includes a powerful search bar to help you quickly find specific budget items. Whether you're looking for a particular expense or category, the search feature ensures that you can locate your budget items with ease.
 
-![Search Bar](image-link-here)
+### 5. Update and Delete
+
+JoeHome Budget provides a simple way to update or delete budget items:
+
+- Right-click on a budget item in the app interface.
+- Select the "Update" option to make changes.
+- Select the "Delete" option to remove the budget item.
+
+![Update and Delete](image-link-here)
 
 ## Getting Started
 
@@ -41,4 +47,12 @@ To get started with JoeHome Budget, follow these simple steps:
 3. Add categories to your database to organize your expenses effectively.
 4. Start adding expenses with the desired amount, ensuring you can use whole numbers or decimals.
 5. Utilize the search bar to find specific budget items whenever you need them.
+6. To update or delete a budget item, simply right-click on the item in the app interface.
+
+
+
+
+
+
+
 
