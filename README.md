@@ -3,6 +3,8 @@
 ## Overview
 
 Joe-HomeBudget is a user-friendly application designed to help you manage your home-budget with ease. This app allows you to add, update, and delete budget items, making it a convenient tool for tracking your expenses and staying on top of your finances.
+<br>
+This project marked my debut in collaborative software development, where I contributed to the creation of a significant application in a team setting
 
 ## Features
 
